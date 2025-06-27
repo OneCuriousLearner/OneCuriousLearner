@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+- 我是一名深圳技术大学的学生
+- 未来希望成为`Unreal Engine`生态中的一员
+- 随缘更新，使用`GitHub`是出于个人兴趣
+- U can communicate with me in English
+
 <!--
 **OneCuriousLearner/OneCuriousLearner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -30,4 +35,4 @@ Here are some ideas to get you started:
 ---
 
 <!-- 循环打字特效 -->
-<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);于是转身向山里走去&center=true&size=27"> </a> </h1>
+<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=printf(%22Hello%2C%20World!%22);于是转身向山里走去&center=true&size=27"> </a> </h1>
