@@ -15,9 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- Metrics（GitHub 信息统计） -->
-<div align="center"> <img src="https://metrics.lecoq.io/OneCuriousLearner?template=classic&config.timezone=Asia%2FShanghai"> </div>
-
 <!-- GitHub Stats Card（GitHub 统计卡片） -->
 <div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=OneCuriousLearner&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
 
@@ -33,11 +30,5 @@ Here are some ideas to get you started:
 <!-- Visitor Badge（GitHub 访客徽章） -->
 <div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=OneCuriousLearner" /> </div>
 
-<!-- GitHub Readme Activity Graph （GitHub 活动统计图） -->
-<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=OneCuriousLearner&theme=xcode" /> </div>
-
-<!-- GitHub streak（GitHub 连续打卡） -->
-<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=OneCuriousLearner" /> </div>
-
 <!-- 循环打字特效 -->
-<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);此后如竟没有炬火：我便是唯一的光。&center=true&size=27"> </a> </h1>
+<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);此后如竟没有炬火：我便是唯一的光&center=true&size=27"> </a> </h1>
