@@ -40,4 +40,4 @@ Here are some ideas to get you started:
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=OneCuriousLearner" /> </div>
 
 <!-- 循环打字特效 -->
-<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);愿中国青年都摆脱冷气，只是向上走，不必听自暴自弃者流的话。能做事的做事，能发声的发声，有一分热，发一分光，就令萤火一般，也可以在黑暗里发一点光，不必等候炬火。此后如竟没有炬火：我便是唯一的光。倘若有了炬火，出了太阳，我们自然心悦诚服的消失，不但毫无不平，而且还要随喜赞美这炬火或太阳；因为他照了人类，连我都在内。我又愿中国青年都只是向上走，不必理会这冷笑和暗箭。&center=true&size=27"> </a> </h1>
+<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);此后如竟没有炬火：我便是唯一的光。&center=true&size=27"> </a> </h1>
