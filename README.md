@@ -31,4 +31,4 @@ Here are some ideas to get you started:
 ---
 
 <!-- 循环打字特效 -->
-<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=printf(%22Stay%2C%20Foolish!%22);于是转身向山里走去&center=true&size=27"> </a> </h1>
+<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=printf(%22Stay%20Foolish!%22);于是转身向山里走去&center=true&size=27"> </a> </h1>
