@@ -20,15 +20,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## GitHub Stats Card
-<!-- GitHub Stats Card（GitHub 统计卡片） -->
-<div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=OneCuriousLearner&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
-
-## Most used languages
-<!-- Most used languages（GitHub 使用语言统计） -->
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OneCuriousLearner&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
-
----
-
 <!-- 循环打字特效 -->
 <h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=printf(%22Stay%20Foolish!%22);哈基米南北路多%7e&center=true&size=27"> </a> </h1>
