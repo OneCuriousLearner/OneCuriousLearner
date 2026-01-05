@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 - 我是一名深圳技术大学的学生
+- 目前在腾讯实习
 - 未来希望成为`Unreal Engine`生态中的一员
 - 随缘更新，使用`GitHub`是出于个人兴趣
 - U can communicate with me in English
